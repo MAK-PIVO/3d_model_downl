@@ -5,7 +5,7 @@
 (chrome://extensions)
 
 opera://extensions → Tampermonkey → Details → включи Allow access to file URLs.
-Перетащи tripo3d_model_downloader.user.js в окно браузера — Tampermonkey перехватит и покажет страницу установки с кнопкой Install.
+Перетащи 3d_model_downloader.user.js в окно браузера — Tampermonkey перехватит и покажет страницу установки с кнопкой Install.
 
 Две галки в панели — это includeNormals и largestMeshOnly.
 
