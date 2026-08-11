@@ -1,0 +1,2 @@
+# t3d_model_downl
+tripo3d_model_downloader
